@@ -1,4 +1,4 @@
-package com.example.promi
+package com.jacksim.promi
 
 import org.junit.Test
 

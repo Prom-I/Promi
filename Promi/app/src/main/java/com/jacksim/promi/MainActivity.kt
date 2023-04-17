@@ -1,4 +1,4 @@
-package com.example.promi
+package com.jacksim.promi
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

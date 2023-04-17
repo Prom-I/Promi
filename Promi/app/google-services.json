@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100624781045",
+    "project_id": "promi-7b32f",
+    "storage_bucket": "promi-7b32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100624781045:android:89708b673c234954b57fbc",
+        "android_client_info": {
+          "package_name": "com.jacksim.promi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100624781045-6ka3p91us3k2qar850uai6hmeoaruh0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhwgcc5INebmcOi4tez2DrK042Ti_ids"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100624781045-6ka3p91us3k2qar850uai6hmeoaruh0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
